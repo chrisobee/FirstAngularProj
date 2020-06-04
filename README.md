@@ -1,1 +1,1 @@
-# MyFirstAppProj
+# FirstAngularProj
